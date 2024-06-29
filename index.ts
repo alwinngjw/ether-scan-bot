@@ -1,6 +1,5 @@
 import TelegramBot from "node-telegram-bot-api";
 import dotenv from "dotenv";
-import axios from "axios";
 
 import * as Helpers from './HelperFunctions/HelperFunctions';
 import * as Api from './API/Api';
